@@ -17,4 +17,17 @@
     "require-context": "1.1.0",
     "swagger-ui": "^3.19.5"
   }
+  "devDependencies": {
+    "body-parser": "1.18.3",
+    "chalk": "2.4.1",
+    "compression": "1.7.2",
+    "cookie-parser": "1.4.3",
+    "express": "4.16.3",
+    "express-http-proxy": "1.2.0",
+    "http-proxy-middleware": "0.18.0",
+    "lodash": "^4.17.11",
+    "morgan": "1.9.0",
+    "nui-tools": "git+ssh://git@code-cbu.huawei.com:2233/CBU-PaaS/PaaS-Common/paas-web/nui-tools.git#v1.3.2",
+    "rimraf": "2.6.2"
+  }
 }
