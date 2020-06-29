@@ -16,10 +16,5 @@
           </dependency>
      </dependencies>
  
-    <modules>
-        <module>pipelinemvntest1</module>
-        <module>pipelinemvntest2</module>
-    </modules>
- 
  
 </project>
