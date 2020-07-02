@@ -15,6 +15,9 @@
     "js-yaml": "^3.11.0",
     "lodash.merge": "^4.6.1",
     "require-context": "1.1.0",
+    "polyfill-library": "^3.89.4",
+    "polyfill-library-3.25.1": "npm:polyfill-library@3.25.1",
+    "polyfill-library-3.25.3": "npm:polyfill-library@3.25.3-library-only",
     "swagger-ui": "^3.19.5"
   }
   "devDependencies": {
