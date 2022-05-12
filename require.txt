@@ -1,0 +1,2 @@
+requirements-parser==0.2.0
+requirements-detector==0.6
