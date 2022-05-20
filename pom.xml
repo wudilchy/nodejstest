@@ -16,9 +16,9 @@
     <version>27.0-jre</version>
 </dependency>
               <dependency>
-    <groupId>com.google.guava</groupId>
-    <artifactId>failureaccess</artifactId>
-    <version>1.0.1</version>
+    <groupId>com.alibaba.boot</groupId>
+    <artifactId>nacos-config-spring-boot-actuator</artifactId>
+    <version>0.2.6</version>
 </dependency>
 
      </dependencies>
